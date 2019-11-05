@@ -1,0 +1,2 @@
+spring集成kafka的简单实现，采用注解编程配置消费者和生产者的对应信息
+在consumer、producer模块各自的resouces下各有一个xml,也可以使用xml形式进行配置
